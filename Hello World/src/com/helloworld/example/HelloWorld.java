@@ -10,7 +10,7 @@ public class HelloWorld {
 		
 		System.out.println("Hello mom");
 		
-		
+		System.out.println("Hello papa");
 		
 	}
 
